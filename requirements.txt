@@ -1,3 +1,4 @@
 groq
 ollama
 python-dotenv
+tiktoken
